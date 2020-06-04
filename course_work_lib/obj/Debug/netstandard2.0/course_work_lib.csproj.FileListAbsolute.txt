@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\course_work_lib\bin\Debug\netstandard2.0\course_work_lib.deps.json
+C:\Users\User\Desktop\course_work_lib\bin\Debug\netstandard2.0\course_work_lib.dll
+C:\Users\User\Desktop\course_work_lib\bin\Debug\netstandard2.0\course_work_lib.pdb
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.AssemblyInfo.cs
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.dll
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.pdb
+C:\Users\User\Desktop\course_work_lib\obj\Debug\netstandard2.0\course_work_lib.csprojAssemblyReference.cache
